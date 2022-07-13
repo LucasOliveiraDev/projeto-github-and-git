@@ -1,0 +1,9 @@
+git bash here >> na pasta pra abrir o console
+
+git ini >> iniciar
+
+git status >> ver o que foi adicionado ou removido
+
+git add "nome do arquivo" >> atualiza um arquivo
+
+git add . >> atualiza tudo
