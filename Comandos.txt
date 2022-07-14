@@ -17,3 +17,16 @@ git reflog >> histórico de commits
 git reset --hard reflog >> reseta pra versao do commit salva
 
 git branch staging >> lista as branchs, e o staging é o nome pra criar outra.
+
+git checkout staging >> troca pra branch staging
+
+git merge staging >> 
+usado dentro da master, 
+para dar merge da staging para master
+
+git pull >> 
+utilizar antes de fazer o merge, 
+e antes de criar uma outra branch,
+para trazer atualizações do servidor para a maquina.
+
+git checkout -b nomebranch >> cria uma nova branch e vai pra ela.
