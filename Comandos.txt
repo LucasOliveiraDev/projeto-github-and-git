@@ -15,3 +15,5 @@ git push >> upload pro github
 git reflog >> histórico de commits
 
 git reset --hard reflog >> reseta pra versao do commit salva
+
+git branch staging >> lista as branchs, e o staging é o nome pra criar outra.
