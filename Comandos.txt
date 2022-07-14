@@ -7,3 +7,11 @@ git status >> ver o que foi adicionado ou removido
 git add "nome do arquivo" >> atualiza um arquivo
 
 git add . >> atualiza tudo
+
+git commit -m "comentario" >> faz o commit das alterações
+
+git push >> upload pro github
+
+git reflog >> histórico de commits
+
+git reset --hard reflog >> reseta pra versao do commit salva
