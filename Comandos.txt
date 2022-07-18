@@ -30,3 +30,16 @@ e antes de criar uma outra branch,
 para trazer atualizações do servidor para a maquina.
 
 git checkout -b nomebranch >> cria uma nova branch e vai pra ela.
+
+=====passo a passo=======
+
+1. git pull da principal
+2. gerar nova branch a partir da principal
+3. trabalhar e adicionar novas funcionalidade na nova branch
+4. finalizar o trabalho na branch nova.
+5. git checkout na branch principal
+6. git pull
+7. mergiar o código da branch nova pra branch principal
+8. git push da branch principal
+
+==========================
