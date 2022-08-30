@@ -10,6 +10,8 @@ git add . >> atualiza tudo
 
 git commit -m "comentario" >> faz o commit das alterações
 
+git remote add <name> <url> >> origin , URL do repostório novo
+
 git push >> upload pro github
 
 git reflog >> histórico de commits
@@ -30,6 +32,8 @@ e antes de criar uma outra branch,
 para trazer atualizações do servidor para a maquina.
 
 git checkout -b nomebranch >> cria uma nova branch e vai pra ela.
+
+touch .gitignore >>
 
 =====passo a passo=======
 
